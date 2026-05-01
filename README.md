@@ -1,6 +1,5 @@
--- Trava de Segurança: Só executa no Sintonia RP
 -- IMPORTANTE: Mude o ID abaixo para o ID oficial do Sintonia RP
-local PlaceID = 123456789
+local PlaceID = 115054138215106
 if game.PlaceId ~= PlaceID then
 return
 end
